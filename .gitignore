@@ -1,4 +1,5 @@
 venv/
 mlproject.egg-info/
-logs/
-artifact/
+#logs/
+.artifacts/
+
